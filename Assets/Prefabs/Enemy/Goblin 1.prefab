@@ -260,7 +260,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcbb160f0f43cfd48a6d8dd5a93602db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HealthChangeDelay: 0.5
+  healthChangeDelay: 0.5
+  damageClip: {fileID: 8300000, guid: 669225b5fd4021140a5b49017357cfb3, type: 3}
 --- !u!114 &1066631144616229109
 MonoBehaviour:
   m_ObjectHideFlags: 0
